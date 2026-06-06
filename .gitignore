@@ -1,0 +1,13 @@
+/*
+!.config/
+/.config/*
+!.config/karabiner/
+/.config/karabiner/*
+!.config/karabiner/karabiner.json
+!.gitconfig
+!.gitignore
+!.vim/
+!.vimrc
+!.zprofile
+!.zshenv
+!.zshrc
