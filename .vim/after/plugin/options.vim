@@ -1,4 +1,4 @@
-set completeopt=menuone,noinsert
+set completeopt=menuone,noselect
 
 set confirm
 set hidden
